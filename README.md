@@ -7,7 +7,9 @@ App Dev Practice Set 2
 
 
 -_**Lucky numbers:** 3, 8_
+
 -_**Lucky colors:** light green_
+
 -_**Lucky element:** emerald_
 
 This will be a good year for Horses to expand their horizons, so they should consider attending seminars or furthering their education.
